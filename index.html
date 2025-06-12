@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <h1>My Grammar Checker</h1>
+    <textarea
+      id="input-prompt"
+      placeholder='Type something'
+      cols="30"
+      rows="5"
+    ></textarea>
+    <button id="button" class="primary">Improve</button>
+    <div id="response" class="text" hidden></div>
+    <div id="loading" class="text" hidden><span class="blink">...</span></div>
+    <div id="error" class="text" hidden></div>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
