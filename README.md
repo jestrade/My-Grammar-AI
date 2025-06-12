@@ -39,6 +39,5 @@ Or download the .zip file and extract it.
 - Chrome 88+ or Chromium-based browser
 
 
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/efbc4c5e-32a5-4d7e-b555-938755e2ac27" />
 
-
-<img width="343" alt="image" src="https://github.com/user-attachments/assets/ffa4f7f8-af39-4468-a71b-d4711ae27122" />
